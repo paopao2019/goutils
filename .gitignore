@@ -1,0 +1,5 @@
+*.iml
+.idea/*
+go_build_main_go.exe
+*.exe
+qodana.yaml
